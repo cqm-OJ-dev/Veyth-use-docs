@@ -2,10 +2,6 @@
 
 这个网站是使用 [Docusaurus](https://docusaurus.io/)，一个现代静态网站生成器构建的。
 
-## 部署
-
-[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?from=github&template=docusaurus-template)
-
 ### 安装
 
 ```
