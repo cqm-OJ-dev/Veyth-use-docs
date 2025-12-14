@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
+  title: 'CQM-OJ-dev',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -93,6 +93,7 @@ const config: Config = {
         {
           title: 'Community',
           items: [
+            /*
             {
               label: 'Stack Overflow',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
@@ -105,6 +106,7 @@ const config: Config = {
               label: 'Twitter',
               href: 'https://twitter.com/docusaurus',
             },
+            */
           ],
         },
         {
@@ -116,7 +118,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/cqm-OJ-dev',
             },
           ],
         },
